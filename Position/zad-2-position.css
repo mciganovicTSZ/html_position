@@ -1,0 +1,22 @@
+.orange {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+}
+.yellow {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    left: 200px;
+    bottom: 200px
+
+}
+.pink {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    bottom: 200px;
+}
